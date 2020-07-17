@@ -1,6 +1,6 @@
 {
   "name": "@omysoul/svelte-song-display",
-  "version": "0.4.1",
+  "version": "0.4.6",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
